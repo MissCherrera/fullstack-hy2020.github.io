@@ -213,7 +213,7 @@ Es posible completar el proyecto en pareja o en grupo.
 
 Para obtener más información, consulte la [página de Open University](https://courses.helsinki.fi/fi/aytkt21010en/133171897).
 
-### Promesa de la entrevista
+### Promesa de entrevista
 
 Nuestros colaboradores, [Houston Inc](https://houston-inc.com/), [Terveystalo](https://www.terveystalo.com/en/) y [Smartly.io](https://www.smartly.io/), han dado la <i>promesa de una entrevista de trabajo</i> para todos los que completen el curso y el proyecto de trabajo con créditos máximos (9 + 10).
 
