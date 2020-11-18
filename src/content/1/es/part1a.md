@@ -191,7 +191,7 @@ pero al escribir JSX, la etiqueta debe estar cerrada:
 <br />
 ```
 
-### Componentes mútliples
+### Componentes mútiples
 
 Modifiquemos la aplicación de la siguiente manera (NB: las importaciones en la parte superior del archivo se omiten en estos <i>ejemplos</i>, ahora y en el futuro. Todavía son necesarias para que el código funcione):
 
@@ -302,7 +302,7 @@ const App = () => {
 
 Los props enviados por el componente <i>App</i> son los valores de las variables, el resultado de la evaluación de la expresión suma y un string regular. 
 
-### Algunas notas 
+### Algunas notas
 
 React se ha configurado para generar mensajes de error bastante claros. A pesar de esto, debe, al menos al principio, avanzar en **pasos muy pequeños** y asegurarse de que cada cambio funcione como se desea.
 

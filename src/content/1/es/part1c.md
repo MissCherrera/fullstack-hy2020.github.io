@@ -7,7 +7,7 @@ lang: es
 
 <div class="content"> 
 
-Volvamos a trabajar con React. 
+Volvamos a trabajar con React.
 
 Comenzamos con un nuevo ejemplo:
 
