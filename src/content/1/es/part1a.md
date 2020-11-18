@@ -51,7 +51,7 @@ Los archivos <i>App.js</i>, <i>App.css</i>, <i>App.test.js</i>, <i>logo.svg</i>,
 
 ### Componente
 
-El archivo <i>index.js</i> ahora define un [componente] (https://reactjs.org/docs/components-and-props.html) de React con el nombre <i>App</i> y el comando en la línea final
+El archivo <i>index.js</i> ahora define un [componente](https://reactjs.org/docs/components-and-props.html) de React con el nombre <i>App</i> y el comando en la línea final
 
 ```js
 ReactDOM.render(<App />, document.getElementById('root')) 
